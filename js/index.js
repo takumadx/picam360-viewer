@@ -26,7 +26,7 @@ var PT_CAM_BASE = 110;
 var P2P_API_KEY = "v8df88o1y4zbmx6r";
 var PUBLIC_VIEWER = "http://takumadx.github.io/picam360-viewer/";
 var SIGNALING_HOST = "peer.picam360.com";
-var SIGNALING_PORT = 80;
+var SIGNALING_PORT = 443;
 var SIGNALING_SECURE = true;
 
 var app = (function() {
